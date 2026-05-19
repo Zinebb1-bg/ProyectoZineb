@@ -14,7 +14,7 @@
 		<table cellpadding="40" width="85%" bgcolor="E2E6B3">
 			<tr>
 				<td>
-					<img src="img/Portada.png" height="500" width="500"></img> 
+					<img src="jolasArgazkiak/Portada.png" height="500" width="500"></img> 
 					</img>
 				</td>	
 				<td>	
